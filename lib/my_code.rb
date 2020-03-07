@@ -6,4 +6,5 @@ while i < array.lengh
 new_array.push(yield(array[i]))
 array += 1
 end
+new_array
 end
