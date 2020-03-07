@@ -22,7 +22,5 @@ def reduce(array, starting_value=nil)
     i += 1
   end
   sum 
-  end
-
 
 end
